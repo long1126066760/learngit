@@ -1,3 +1,2 @@
-this is a git test txt
-git is a good tool.
-修改相关数据, 更改测试数据
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
